@@ -7,4 +7,3 @@ Squash and merge 풀리퀘스트 실습을 위한 두번째 인사말 커밋 입
 ## 세번째 rebase 리퀘스트
 rebase and merge 풀리퀘스트 실습을 위한 두번째 인사말 커밋 입니다.
 ## 세번째 rebase 리퀘스트
-rebase and merge 풀리퀘스트 실습을 위한 두번째 인사말 커밋 입니다.
